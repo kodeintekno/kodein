@@ -1,0 +1,11 @@
+p {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blueviolet;
+    background-image: url("./background.jpg");
+    background-size: cover;
+}
